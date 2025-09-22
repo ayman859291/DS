@@ -1,6 +1,8 @@
 {
   "name": "advanced-data-structures-c++",
   "private": true,
+  "homepage": "https://ayman859291.github.io/DS/",
+  
   "version": "0.0.0",
   "type": "module",
   "scripts": {
